@@ -1,2 +1,0 @@
-gzlinyi.github.com
-==================
